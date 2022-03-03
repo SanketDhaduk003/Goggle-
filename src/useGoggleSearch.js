@@ -1,7 +1,6 @@
 import React,{useState,useEffect} from 'react'
 import API_KEY from './keys';
 
-
 const CONTEXT_KEY = "3f82a89b5ae585b7d";
 
  const  useGoggleSearch = (term) => {
